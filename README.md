@@ -5,28 +5,11 @@
 
 Um sorteador de Amigo Secreto interativo, que permite adicionar nomes, realizar o sorteio e anunciar o vencedor em voz alta usando a biblioteca ResponsiveVoice.
 
-# Índice 
-
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
-
-
-# 📸 Demonstração
+# 📸 Demonstração do projeto
 
 OBS: Aumente o volume 📢 
 
 https://github.com/user-attachments/assets/bd3828de-4484-4351-942d-af32a49a3c2c
-
 
 
 # :hammer: Funcionalidades do projeto
